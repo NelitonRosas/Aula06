@@ -1,0 +1,19 @@
+header{
+    background: linear-gradient(orange, pink);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    border-radius: 20px;
+}
+
+footer{
+    font-weight: bold;
+    background-color: bisque;
+}
+
+section{
+background-color: antiquewhite;
+}
